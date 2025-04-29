@@ -15,6 +15,7 @@ public class Employee {
         System.out.println("Emplyee ID: " + id);
         System.out.println("Emplyee Salary: " + salary);
         System.out.println("    Employee age in master"+age);
+        System.out.println("master");
      }
     public static void main(String[] args) {
         Employee e=new Employee("Anushka", 101, 2000000,19);
